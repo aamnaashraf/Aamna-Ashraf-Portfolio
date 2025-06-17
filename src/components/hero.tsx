@@ -24,7 +24,7 @@ export default function Hero() {
           <span className="text-gray-300">I'm into </span>
           <span className="text-indigo-400">
             <Typewriter
-              words={['Web Development', 'Python Programming', 'Building AI Agents']}
+              words={['Web Development', 'Python Programming', 'Building AI Agents', 'UI/UX Responsiveness]}
               loop
               cursor
               cursorStyle="|"
@@ -37,7 +37,7 @@ export default function Hero() {
 
         {/* Paragraph with highlighted important points */}
         <p className="text-gray-400 text-xl md:text-2xl leading-relaxed md:leading-loose">
-          I'm passionate about building modern and responsive web applications using cutting-edge technologies like <span className="text-blue-400 font-semibold">React</span> and <span className="text-purple-400 font-semibold">Next.js</span>. With a strong background in <span className="text-blue-400 font-semibold">Python</span>, I enjoy working on both frontend and backend development. I also have experience creating intelligent <span className="text-purple-400 font-semibold">AI agents</span> that can automate tasks, make decisions, and solve real-world problems. I love turning ideas into working solutions that make a difference.
+          I'm passionate about building modern and responsive web applications using cutting-edge technologies like <span className="text-blue-400 font-semibold">React</span> and <span className="text-purple-400 font-semibold">Next.js</span>. With a strong background in <span className="text-blue-400 font-semibold">Python</span>, I enjoy working on both frontend and backend development. I also have experience creating intelligent <span className="text-purple-400 font-semibold">AI agents</span> that can automate tasks.
         </p>
 
         {/* Github and LinkedIn buttons with spacing */}
